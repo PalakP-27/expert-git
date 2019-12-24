@@ -1,7 +1,14 @@
-hello
+jbjdcdsfsnkjsfuisfhisnfsjfi hello
 It is my first pull data.
 Hii
 Now i am dong some changes in this file.
 
+<<<<<<< HEAD
 Hello
 all branch is merge into parent branch
+=======
+nuirhg8hjknv
+sofj89reoik
+\firhgirek
+snirfgkm
+>>>>>>> demo
